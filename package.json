@@ -1,0 +1,21 @@
+{
+    "name": "platzi-media",
+    "version": "1.0.0",
+    "description": "Proyecto del curso Profesional de JavaScript de la escuela de JS",
+    "License": "MIT",
+    "author": "Manuel Aguilar <aguilarmanu5@gmail.com>",
+    "keywords": [
+        "platzi"
+    ],
+    "scripts": {
+        "start": "parcel index.html ejercicios/index.html ejercicios/**/*.html"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "parcel-bundler": "^1.12.4",
+        "typescript": "^3.9.3"
+    },
+    "browserlist": [
+        "last 1 Chrome version"
+    ]
+}
